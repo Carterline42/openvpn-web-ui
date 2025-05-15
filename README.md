@@ -1,4 +1,4 @@
-# OpenVPN-web-ui
+# OpenVPN-web-ui (single .ovpn support)
 
 ## Summary
 OpenVPN server web administration interface.
